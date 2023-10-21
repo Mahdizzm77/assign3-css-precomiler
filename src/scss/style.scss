@@ -129,7 +129,7 @@ article {
         margin-bottom: 15px;
         line-height: 1.3em;
         transition: all .3s ease;
-        hover {
+        & hover {
             color: #35c4ce;
         }
     }
